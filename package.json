@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/azu/github-release-dom.git"
   },
-  "main": "index.js",
+  "main": "github-release-dom.js",
   "scripts": {
     "test": "mocha test/*.js"
   },
