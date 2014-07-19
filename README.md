@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-npm install 
+npm install git://github.com/azu/github-release-dom.git
 ```
 
 ## Usage
