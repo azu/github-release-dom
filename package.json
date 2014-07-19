@@ -1,7 +1,7 @@
 {
   "name": "github-release-dom",
   "description": "DOM library for Github Releases page.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/azu/github-release-dom/",
   "repository": {
     "type": "git",
